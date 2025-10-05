@@ -1,7 +1,5 @@
 Primera api realizada de ctegoris y productos en java usando Spring, la bbdd mysql y JPA.
 
-Proyecto Dockerizado y subido - > https://hub.docker.com/repository/docker/pablopay/spring-api-image
-
 Para probar inserciones en la BBDD se probó con :
 -- Insertar datos en la tabla 'categories'
 INSERT INTO categories (name, description) VALUES
